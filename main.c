@@ -11,7 +11,6 @@
 
 int main(int argc, char **argv)
 {
-	//printf("hello world.\n");
 	if (argc < 2)
 	{
 		printf("at least 2 arguments.\n");
